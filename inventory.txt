@@ -1,0 +1,23 @@
+10001,chicken wing,freezer,pack,25.00,24,9
+10002,apple,fruit,pieces,5.00,9,7
+20443,beef 300g,freezer,pack,30.00,23,7
+10954,cucumber,vegetables,pieces,2.00,11,9
+53921,milk 1L,dairy,bottle,7.00,35,8
+83921,orange,fruit,pieces,4.00,13,7
+48372,potatochip,snacks,pack,3.00,45,9
+19320,carrot,vegetables,pieces,1.00,22,8
+49290,walnuts,snacks,pack,2.00,23,7
+49202,mineral water 100ml,drinks,bottle,1.00,20,9
+78920,lemon,fruit,pieces,3.00,16,8
+19392,chicken thigh,freezer,pack,34.00,23,7
+49302,fish,freezer,pack,32.00,21,9
+19349,watermelon,fruit,pieces,23.00,23,8
+29047,lays,snacks,pack,2.00,20,7
+12032,coconut water,fruit,bottle,5.00,20,7
+12357,tuna,freezer,can,4.00,23,9
+24424,gardenia bread,bread,pack,5.00,20,6
+14566,milo,drinks,bottle,5.00,23,11
+38290,coca-cola,drinks,bottle,3.50,19,9
+28492,starfruit,fruit,pieces,2.20,10,7
+18392,grape,fruit,pack,10.40,20,9
+29011,kitkat,snacks,pack,10.00,20,8

@@ -1,0 +1,6 @@
+admin1,admin1pass,admin
+checker1,checker1pass,inventory-checker
+purchaser,purchaser1pass,purchaser
+zrchen,zrchen2004,admin
+jeanhang,jeanhangt,inventory-checker
+darryl,darryl02,purchaser
