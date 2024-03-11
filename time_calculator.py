@@ -5,7 +5,8 @@ def add_time(start, duration, day = None):
     minutes_list = []
     new_time = []
     hour = 0
-    
+    time = False
+
     #for day
     if day == "Monday":
         days = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
